@@ -10,17 +10,17 @@ Detection of ArUco markers -
 
 ---
 
-### Using ArUco-Gen
+### Using ArUco-Scanner-v1.0
 
 From the command line, execute the following:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ArUco-Nav-Final-Year-Project-20/ArUco-Scanner-v1.0.git/
+$ git clone https://github.com/Soumik-Dhar/ArUco-Scanner-FYP-2020.git/
 ```
 ```bash
 # Go into the repository
-$ cd ArUco-Scanner-v1.0/
+$ cd ArUco-Scanner-FYP-2020/v1.0/
 ```
 ```bash
 # Install dependencies
